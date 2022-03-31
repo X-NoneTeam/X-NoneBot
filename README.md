@@ -9,18 +9,18 @@
 </p>
 <p align="center">
 <a href="https://github.com/xdlyy404/followers"><img title="Followers" src="https://img.shields.io/github/followers/xdlyy404?color=blue&style=flat-square"></a>
-<a href="https://github.com/xdlyy404/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/xdlyy404/X-NoneBot?color=red&style=flat-square"></a>
-<a href="https://github.com/xdlyy404/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/xdlyy404/X-NoneBot?color=red&style=flat-square"></a>
-<a href="https://github.com/xdlyy404/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/xdlyy404/X-NoneBot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/X-NoneTeam/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/xdlyy404/X-NoneBot?color=red&style=flat-square"></a>
+<a href="https://github.com/X-NoneTeam/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/xdlyy404/X-NoneBot?color=red&style=flat-square"></a>
+<a href="https://github.com/X-NoneTeam/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/xdlyy404/X-NoneBot?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/xdlyy404/X-NoneBot#requirements">Requirements</a> •
-  <a href="https://github.com/xdlyy404/X-NoneBot#instalasi">Installation</a> •
-  <a href="https://github.com/xdlyy404/X-NoneBot#feature-test">Fature test</a> •
-  <a href="https://github.com/xdlyy404/X-NoneBot#bug-report">Bug report</a> •
-  <a href="https://github.com/xdlyy404/X-NoneBot#features">Features</a> •
-  <a href="https://github.com/xdlyy404/X-NoneBot#thanks-to">Thanks to</a>
+  <a href="https://github.com/X-NoneTeam/X-NoneBot#requirements">Requirements</a> •
+  <a href="https://github.com/X-NoneTeam/X-NoneBot#instalasi">Installation</a> •
+  <a href="https://github.com/X-NoneTeam/X-NoneBot#feature-test">Fature test</a> •
+  <a href="https://github.com/X-NoneTeam/X-NoneBot#bug-report">Bug report</a> •
+  <a href="https://github.com/X-NoneTeam/X-NoneBot#features">Features</a> •
+  <a href="https://github.com/X-NoneTeam/X-NoneBot#thanks-to">Thanks to</a>
 </p>
 </div>
 
@@ -42,7 +42,7 @@
 # Instalasi
 ## For Windows
 ```bash
-git clone https://github.com/xdlyy404/X-NoneBot
+git clone https://github.com/X-NoneTeam/X-NoneBot
 cd X-NoneBot
 npm install
 npm start
@@ -52,7 +52,7 @@ npm start
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/xdlyy404/X-NoneBot
+git clone https://github.com/X-NoneTeam/X-NoneBot
 cd X-NoneBot
 npm install
 npm start
@@ -105,8 +105,9 @@ webpmux -version
 - [Developer](https://wa.me/62895379169488)
 
 # Features
-- Cek [disini](https://github.com/xdlyy404/X-NoneBot/blob/master/message/help.js)
+- Cek [disini](https://github.com/X-NoneTeam/X-NoneBot/blob/main/message/help.js)
 
 # Thanks to
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
+* [`Fadly ID`](https://github.com/xdlyy404)
 * [`X-None Team`](https://github.com/X-NoneTeam)
