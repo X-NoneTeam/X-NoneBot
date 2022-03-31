@@ -1,0 +1,17 @@
+{
+  "wait": "*WAIT* || Being processed...",
+  "success": "*SUCCESS* || Follows Instagram @iamfadlyid_",
+  "error": {
+      "stick": "*ERROR* || Cannot access videos!",
+      "Iv": "*ERROR* || Invalid link!",
+      "api": "There is an error"
+  },
+  "only": {
+      "group": "*REJECTED* || Only for within the group!",
+      "ownerG": "*REJECTED* || Only for group owners!",
+      "ownerB": "*REJECTED* || Only for bot owners!",
+      "admin": "*REJECTED* || Only for group admins!",
+      "Badmin": "*REJECTED* || Make the bot a group admin!",
+      "prem": "*REJECTED* || This feature is only for premium members!"
+  }
+}
