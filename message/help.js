@@ -1,4 +1,4 @@
-exports.newMenu = (ucapanWaktu, sender, quote, ownerName, botName, multi, publik, hit, calender, time, latensi, runtime, pushname, isOwner, isPremium, getBalance, balance, prefix) => {
+exports.newMenu = (ucapanWaktu, sender, quote, ownerName, botName, multi, publik, cmhit, calender, time, latensi, runtime, pushname, isOwner, isPremium, getBalance, balance, prefix) => {
     return`Hii kak @${sender.split('@')[0]} ${ucapanWaktu}✨
 
 Hitung Mundur Bulan Ramadhan
@@ -8,7 +8,7 @@ ${quote.data.quotes}
 🤖 Bot Name : ${botName}
 📍 Prefix : ${multi ? 'Multi Prefix' : 'No Prefix'}
 📢 Mode : ${publik ? 'Public' : 'Self'}
-🌐 Total Hit : ${hit.data.value}
+🌐 Total Hit : ${cmhit}
 📆 Date : ${calender}
 ⏰ Time : ${time} WIB
 📶 Speed : ${latensi.toFixed(4)} second
