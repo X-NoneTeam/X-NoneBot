@@ -1,7 +1,6 @@
 exports.newMenu = (ucapanWaktu, sender, quote, ownerName, botName, multi, publik, cmhit, calender, time, latensi, runtime, pushname, isOwner, isPremium, getBalance, balance, prefix) => {
     return`Hii kak @${sender.split('@')[0]} ${ucapanWaktu}✨
 
-Hitung Mundur Bulan Ramadhan
 ${quote.data.quotes}
 
 👑 Creator : ${ownerName}
